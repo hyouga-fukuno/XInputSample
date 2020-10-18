@@ -1,3 +1,5 @@
 # ----------------------[ Visual Studio generated ]---------------------- #
 [Pp]roj/.vs/XInput/v16/ipch/*
 [Pp]roj/.vs/XInput/v16/Browse.VC.db
+[Pp]roj/XInput/Debug/*
+[Pp]roj/XInput/Release/*
